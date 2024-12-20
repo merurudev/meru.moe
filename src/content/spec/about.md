@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 私(めるる)について
 
-::github{repo="saicaca/fuwari"}
+気ままにものづくりをしている学生です。普段は`TypeScript`を使って開発を行っています。
+プライバシー・セキュリティーについて勉強もしています。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+# このブログの目的
+
+基本的に私の書きたい事を書きますが、あえてネットワーク上で公開するのにはいくつか目的があります。
+* 自分という存在の認知をしてもらうため
+* 経験や失敗をほかの人のために記録し、残すため
+* 知識を広めるため
+
+# 更新頻度は？
+
+そんなに高くないです。気分屋なので一週間に五回だとか、一ヶ月以上更新が無いだとか、コロコロ変わります。
+
+とりあえず書きたいときに書く、「〇日に一回必ず更新」みたいなのはナシ。そんな感じの使い方になりそうです。よろしくお願いします。
