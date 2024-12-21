@@ -8,5 +8,6 @@
       }
     }
   ],
-  "useTabs": true
+  "useTabs": true,
+  "singleQuote": true
 }

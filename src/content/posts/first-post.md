@@ -5,7 +5,7 @@ description: '初投稿。'
 image: ''
 tags: ['first']
 category: '日常'
-draft: false 
+draft: false
 lang: 'ja'
 ---
 
